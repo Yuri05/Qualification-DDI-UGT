@@ -71,3 +71,7 @@ status = system(['"' MarkdownJoiner_path '" -i "' REOutput_path '" -o "' ReportO
 
 if status~=0 error('MarkdownJoiner failed'); end
 
+% Copy additional files
+
+copyfile(fullfile(cd,'Input','Content','images'),fullfile(cd,'report','markdown_for_github','images'));
+copyfile(fullfile(cd,'Input','Content','images'),fullfile(cd,'report','markdown_for_pdf','images'));

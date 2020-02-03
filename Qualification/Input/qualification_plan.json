@@ -164,38 +164,8 @@
       ]
     },
     "ComparisonTimeProfilePlots": [
-      {
+            {
         "SectionId": 31,
-        "Title": "Kasichayanula 2013a",
-        "SimulationDuration": 48,
-        "TimeUnit": "h",
-        "OutputMappings": [
-          {
-            "Project": "Mefenamic_acid-Dapagliflozin-DDI",
-            "Simulation": "DDI Control - Dapagliflozin - Kasichayanula 2013a",
-            "Output": "Organism|PeripheralVenousBlood|Dapagliflozin|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Kasichayanula 2013a - Study 2: Control (Perpetrator Placebo) - Dapagliflozin - PO - 10 mg - Plasma - agg. (n=16)",
-            "StartTime": 0,
-            "TimeUnit": "h",
-            "Color": "#2166ac",
-            "Caption": "Control (without mefenamic acid)",
-            "Symbol": "Circle"
-          },
-          {
-            "Project": "Mefenamic_acid-Dapagliflozin-DDI",
-            "Simulation": "DDI Treatment - Mefenamic acid/Dapagliflozin - Kasichayanula 2013a",
-            "Output": "Organism|PeripheralVenousBlood|Dapagliflozin|Plasma (Peripheral Venous Blood)",
-            "ObservedData": "Kasichayanula 2013a - Study 2: with Perpetrator (Mefenamic Acid) - Dapagliflozin - PO - 10 mg - Plasma - agg. (n=16)",
-            "StartTime": 24,
-            "TimeUnit": "h",
-            "Color": "#b2182b",
-            "Caption": "Treatment (with mefenamic acid)",
-            "Symbol": "Square"
-          }
-        ]
-      },
-      {
-        "SectionId": 32,
         "Title": "Iwamoto 2008",
         "SimulationDuration": 176,
         "TimeUnit": "h",
@@ -225,7 +195,7 @@
         ]
       },
       {
-        "SectionId": 32,
+        "SectionId": 31,
         "Title": "Krishna 2016",
         "SimulationDuration": 216,
         "TimeUnit": "h",
@@ -255,7 +225,7 @@
         ]
       },
       {
-        "SectionId": 32,
+        "SectionId": 31,
         "Title": "Neely 2010",
         "SimulationDuration": 192,
         "TimeUnit": "h",
@@ -285,7 +255,7 @@
         ]
       },
       {
-        "SectionId": 32,
+        "SectionId": 31,
         "Title": "Zhu 2010",
         "SimulationDuration": 612,
         "TimeUnit": "h",
@@ -313,6 +283,36 @@
             "Symbol": "Square"
           }
         ]
+      },
+      {
+        "SectionId": 32,
+        "Title": "Kasichayanula 2013a",
+        "SimulationDuration": 48,
+        "TimeUnit": "h",
+        "OutputMappings": [
+          {
+            "Project": "Mefenamic_acid-Dapagliflozin-DDI",
+            "Simulation": "DDI Control - Dapagliflozin - Kasichayanula 2013a",
+            "Output": "Organism|PeripheralVenousBlood|Dapagliflozin|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Kasichayanula 2013a - Study 2: Control (Perpetrator Placebo) - Dapagliflozin - PO - 10 mg - Plasma - agg. (n=16)",
+            "StartTime": 0,
+            "TimeUnit": "h",
+            "Color": "#2166ac",
+            "Caption": "Control (without mefenamic acid)",
+            "Symbol": "Circle"
+          },
+          {
+            "Project": "Mefenamic_acid-Dapagliflozin-DDI",
+            "Simulation": "DDI Treatment - Mefenamic acid/Dapagliflozin - Kasichayanula 2013a",
+            "Output": "Organism|PeripheralVenousBlood|Dapagliflozin|Plasma (Peripheral Venous Blood)",
+            "ObservedData": "Kasichayanula 2013a - Study 2: with Perpetrator (Mefenamic Acid) - Dapagliflozin - PO - 10 mg - Plasma - agg. (n=16)",
+            "StartTime": 24,
+            "TimeUnit": "h",
+            "Color": "#b2182b",
+            "Caption": "Treatment (with mefenamic acid)",
+            "Symbol": "Square"
+          }
+        ]
       }
     ],
     "DDIRatioPlots": [
@@ -328,32 +328,6 @@
           "Table"
         ],
         "Groups": [
-          {
-            "Caption": "Mefenamic acid + Dapagliflozin",
-            "Color": "#2166ac",
-            "Symbol": "Square",
-            "DDIRatios": [
-              {
-                "Output": "Organism|PeripheralVenousBlood|Dapagliflozin|Plasma (Peripheral Venous Blood)",
-                "ObservedData": "DDI Ratios",
-                "ObservedDataRecordId": 642,
-                "SimulationControl": {
-                  "Project": "Mefenamic_acid-Dapagliflozin-DDI",
-                  "Simulation": "DDI Control - Dapagliflozin - Kasichayanula 2013a",
-                  "StartTime": 0,
-                  "EndTime": 9999,
-                  "TimeUnit": "h"
-                },
-                "SimulationDDI": {
-                  "Project": "Mefenamic_acid-Dapagliflozin-DDI",
-                  "Simulation": "DDI Treatment - Mefenamic acid/Dapagliflozin - Kasichayanula 2013a",
-                  "StartTime": 24,
-                  "EndTime": 9999,
-                  "TimeUnit": "h"
-                }
-              }
-            ]
-          },
           {
             "Caption": "Atazanavir + Raltegravir",
             "Color": "#b2182b",
@@ -436,6 +410,32 @@
                 }
               }
             ]
+          },
+          {
+            "Caption": "Mefenamic acid + Dapagliflozin",
+            "Color": "#2166ac",
+            "Symbol": "Square",
+            "DDIRatios": [
+              {
+                "Output": "Organism|PeripheralVenousBlood|Dapagliflozin|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "DDI Ratios",
+                "ObservedDataRecordId": 642,
+                "SimulationControl": {
+                  "Project": "Mefenamic_acid-Dapagliflozin-DDI",
+                  "Simulation": "DDI Control - Dapagliflozin - Kasichayanula 2013a",
+                  "StartTime": 0,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                },
+                "SimulationDDI": {
+                  "Project": "Mefenamic_acid-Dapagliflozin-DDI",
+                  "Simulation": "DDI Treatment - Mefenamic acid/Dapagliflozin - Kasichayanula 2013a",
+                  "StartTime": 24,
+                  "EndTime": 9999,
+                  "TimeUnit": "h"
+                }
+              }
+            ]
           }
         ]
       }
@@ -472,44 +472,44 @@
       "Sections": [
         {
           "Id": 31,
-          "Title": "3.1 Mefenamic acid - Dapagliflozin DDI",
-          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI/master/text-modules/MEFA-Dapa_DDI.md"
+          "Title": "3.1 Atazanavir - Raltegravir DDI",
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Atazanavir-Raltegravir-DDI/master/text-modules/ATV-RAL_DDI.md"
         },
         {
           "Id": 32,
-          "Title": "3.2 Atazanavir - Raltegravir DDI",
-          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Atazanavir-Raltegravir-DDI/master/text-modules/ATV-RAL_DDI.md"
+          "Title": "3.2 Mefenamic acid - Dapagliflozin DDI",
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI/master/text-modules/MEFA-Dapa_DDI.md"
         }
       ]
     },
     {
       "Id": 4,
-      "Title": "4 Appendix",
+      "Title": "4 References",
+      "Content": "Content/References.md",
+      "Sections": []
+    },
+    {
+      "Id": 5,
+      "Title": "5 Appendix",
       "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Empty.md",
       "Sections": [
         {
-          "Id": 41,
-          "Title": "4.1 Open Systems Pharmacology Suite (OSPS) Introduction",
+          "Id": 51,
+          "Title": "5.1 Open Systems Pharmacology Suite (OSPS) Introduction",
           "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/OSPS_Introduction.md"
         },
         {
-          "Id": 42,
-          "Title": "4.2 Mathematical Implementation of Drug-Drug Interactions",
+          "Id": 52,
+          "Title": "5.2 Mathematical Implementation of Drug-Drug Interactions",
           "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Mathematical_Implementation_of_DDI.md"
         },
         {
-          "Id": 43,
-          "Title": "4.3 Automatic (re)-qualification workflow",
+          "Id": 53,
+          "Title": "5.3 Automatic (re)-qualification workflow",
           "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Qualification_Workflow.md"
         }
       ]
     },
-    {
-      "Id": 5,
-      "Title": "5 References",
-      "Content": "Content/References.md",
-      "Sections": []
-    }
   ],
   "Intro": [
     {

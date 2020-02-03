@@ -1,8 +1,6 @@
 **Guest 2011** Guest EJ, Aarons L, Houston JB, Rostami-Hodjegan A, Galetin A. Critique of the twofold measure of prediction success for ratios: application for the assessment of drug-drug
 interactions. Drug metabolism and disposition: the biological fate of chemicals. 2011;39(2):170-3
 
-**Hanke 2018** Hanke N, Frechen S, Moj D, Britz H, Eissing T, Wendl T, Lehr T. PBPK Models for CYP3A4 and P-gp DDI Prediction: A Modeling Network of Rifampicin, Itraconazole, Clarithromycin, Midazolam, Alfentanil, and Digoxin. *CPT Pharmacometrics Syst Pharmacol.* 2018, 7(10): 647-659.
-
 **Iwamoto 2008** Iwamoto M, Wenning LA, Mistry GC, Petry AS, Liou SY, Ghosh K, et al. Atazanavir modestly increases plasma levels of raltegravir in healthy subjects. Clinical infectious diseases :
 an official publication of the Infectious Diseases Society of America. 2008;47(1):137-40.
 
@@ -20,3 +18,4 @@ Antimicrobial agents and chemotherapy. 2010;54(11):4619-25.
 **Zhu 2010** Zhu L, Butterton J, Persson A, Stonier M, Comisar W, Panebianco D, et al.
 Pharmacokinetics and safety of twice-daily atazanavir 300 mg and raltegravir 400 mg in healthy
 individuals. Antiviral therapy. 2010;15(8):1107-14.
+

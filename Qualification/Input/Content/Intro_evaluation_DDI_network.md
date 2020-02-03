@@ -1,14 +1,9 @@
 The published DDI study between the respective perpetrator and victim drug was simulated and compared to observed data.
 
-For further references please refer to the database for observed data [[1](#reference)] and respective model repositories [[2-3](#reference)].
+[Section 3.1](#3.1 Atazanavir - Raltegravir DDI) shows concentration time profiles of the four clinical studies between atazanavir and raltegravir ([Iwamoto 2008](#4 References), [Krishna 2008](#4 References), [Neely 2010](#4 References), [Zhu 2010](#4 References)).
 
+[Section 3.2](#3.2 Mefenamic acid - Dapagliflozin DDI) shows concentration time profiles of the clinical study between mefenamic acid and dapagliflozin ([Kasichayanula 2013](#4 References)).
 
-
-[1] [https://github.com/Open-Systems-Pharmacology/Database-for-observed-data](https://github.com/Open-Systems-Pharmacology/Database-for-observed-data)
-
-[2] [https://github.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI](https://github.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI)
-
-[3] [https://github.com/Open-Systems-Pharmacology/Atazanavir-Raltegravir-DDI](https://github.com/Open-Systems-Pharmacology/Atazanavir-Raltegravir-DDI)
 
 
 
