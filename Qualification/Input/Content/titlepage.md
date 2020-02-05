@@ -4,10 +4,11 @@
 
 
 
-| Version     | 0.1                                                          |
-| ----------- | ------------------------------------------------------------ |
-| Release     |                                                              |
-| Repository  | https://github.com/Open-Systems-Pharmacology/Qualification-DDI-UGT |
-| OSP Version | 8.0                                                          |
-| Author      | Sebastian Frechen (sfrechen)                                 |
+| Evaluation report version       | 1.0                                                          |
+| ------------------------------- | ------------------------------------------------------------ |
+| Repository                      | https://github.com/Open-Systems-Pharmacology/Qualification-DDI-UGT |
+| Release                         | https://github.com/Open-Systems-Pharmacology/Qualification-DDI-UGT/releases/tag/v1.0 |
+| OSP version                     | 8.0                                                          |
+| Qualification framework version | 2.1                                                          |
+| Author                          | Sebastian Frechen (sfrechen)                                 |
 
