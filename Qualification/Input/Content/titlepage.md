@@ -4,7 +4,7 @@
 
 
 
-| Evaluation report version       | 1.0                                                          |
+| Version                         | 1.0                                                          |
 | ------------------------------- | ------------------------------------------------------------ |
 | Repository                      | https://github.com/Open-Systems-Pharmacology/Qualification-DDI-UGT |
 | Release                         | https://github.com/Open-Systems-Pharmacology/Qualification-DDI-UGT/releases/tag/v1.0 |
