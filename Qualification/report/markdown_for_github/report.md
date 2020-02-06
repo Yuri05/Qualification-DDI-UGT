@@ -39,7 +39,7 @@ Descriptions and evaluations of the included models are documented separately in
 
 Please refer to the [Appendix](#5-Appendix) to learn more details:
 
-- An overview over the Open Systems Pharmacology Suite is given in chapter [Section 5.1](#5.1-Open-Systems-Pharmacology-Suite-(OSPS)-Introduction)
+- An overview over the Open Systems Pharmacology Suite is given in chapter [Section 5.1](#51-Open-Systems-Pharmacology-Suite-(OSPS)-Introduction)
 - [Section 5.2](#52-Mathematical-Implementation-of-Drug-Drug-Interactions) shows the implementation of the underlying mathematical equations for drug-drug interactions in the OSP suite.
 - A detailed general description of the performed qualification workflow can be found in chapter [Section 5.3](#53-Automatic-(re)-qualification-workflow).
 
