@@ -456,7 +456,19 @@
         {
           "Id": 12,
           "Title": "1.2 UGT DDI Network",
-          "Content": "Content/Qualification_DDI_UGT_network_description.md"
+          "Content": "Content/Qualification_DDI_UGT_network_description.md",
+          "Sections": [
+            {
+              "Id": 121,
+              "Title": "Atazanavir - Raltegravir DDI",
+              "Content": "Content/ATV-RAL-DDI.md"
+            },
+            {
+              "Id": 122,
+              "Title": "Mefenamic acid - Dapagliflozin DDI",
+              "Content": "Content/MEFA-Dapa-DDI.md"
+            }
+          ]
         }
       ]
     },
@@ -473,12 +485,12 @@
         {
           "Id": 31,
           "Title": "3.1 Atazanavir - Raltegravir DDI",
-          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Atazanavir-Raltegravir-DDI/master/text-modules/ATV-RAL_DDI.md"
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Empty.md"
         },
         {
           "Id": 32,
           "Title": "3.2 Mefenamic acid - Dapagliflozin DDI",
-          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI/master/text-modules/MEFA-Dapa_DDI.md"
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/master/Empty.md"
         }
       ]
     },
