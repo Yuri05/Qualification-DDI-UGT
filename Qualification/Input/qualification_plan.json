@@ -3,17 +3,17 @@
   "Projects": [
     {
       "Id": "Mefenamic_acid",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic-acid-Model/master/Mefenamic_acid.json",
+      "Path": "https://github.com/Open-Systems-Pharmacology/Mefenamic-acid-Model/releases/download/v1.0/Mefenamic_acid-Model.json",
       "BuildingBlocks": []
     },
     {
       "Id": "Dapagliflozin",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dapagliflozin-Model/master/Dapagliflozin-Model.json",
+      "Path": "https://github.com/Open-Systems-Pharmacology/Dapagliflozin-Model/releases/download/v1.0/Dapagliflozin-Model.json",
       "BuildingBlocks": []
     },
     {
       "Id": "Mefenamic_acid-Dapagliflozin-DDI",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI/master/Mefenamic_acid-Dapagliflozin-DDI.json",
+      "Path": "https://github.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI/releases/download/v1.0/Mefenamic_acid-Dapagliflozin-DDI.json",
       "BuildingBlocks": [
         {
           "Type": "Individual",
@@ -59,17 +59,17 @@
     },
     {
       "Id": "Raltegravir",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Raltegravir-Model/master/Raltegravir.json",
+      "Path": "https://github.com/Open-Systems-Pharmacology/Raltegravir-Model/releases/download/v1.0/Raltegravir.json",
       "BuildingBlocks": []
     },
     {
       "Id": "Atazanavir",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Atazanavir-Model/master/Atazanavir.json",
+      "Path": "https://github.com/Open-Systems-Pharmacology/Atazanavir-Model/releases/download/v1.0/Atazanavir.json",
       "BuildingBlocks": []
     },
     {
       "Id": "Atazanavir-Raltegravir-DDI",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Atazanavir-Raltegravir-DDI/master/Atazanavir-Raltegravir-DDI.json",
+      "Path": "https://github.com/Open-Systems-Pharmacology/Atazanavir-Raltegravir-DDI/releases/download/v1.0/Atazanavir-Raltegravir-DDI.json",
       "BuildingBlocks": [
         {
           "Type": "Compound",
