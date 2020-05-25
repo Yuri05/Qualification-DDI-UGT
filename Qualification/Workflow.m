@@ -3,12 +3,18 @@
 % --------------------------------------------------------------
 
 close all
+clear all
 tic
+
+if exist(fullfile(cd,'re_input'),'dir')>0 rmdir(fullfile(cd,'re_input'),'s'); end
+if exist(fullfile(cd,'re_output'),'dir')>0 rmdir(fullfile(cd,'re_output'),'s'); end
+if exist(fullfile(cd,'report'),'dir')>0 rmdir(fullfile(cd,'report'),'s'); end
 
 % --------------------------------------------------------------
 % replace qualificationRunnerFolder and markdownJoinerFolder with your paths
-qualificationRunnerFolder = 'C:\Software\QualificationRunner 8.0.51';
+qualificationRunnerFolder = 'C:\Software\QualificationRunner';
 markdownJoinerFolder = 'C:\Software\markdown-joiner';
+PKSimPortableFolder = 'C:\Software\PKSimPortable';
 
 % --------------------------------------------------------------
 % replace baseDir and qualificationPlanName with your paths
@@ -42,7 +48,7 @@ ReportOutput_path=fullfile(baseDir,'report');
 
 % --------------------------------------------------------------
 % STEP #1: start qualification runner to generate inputs for the reporting engine
-startQualificationRunner(qualificationRunnerFolder, qualificationPlan, REInput_path);
+startQualificationRunner(qualificationRunnerFolder, qualificationPlan, REInput_path, ['-p ' PKSimPortableFolder]);
 
 % --------------------------------------------------------------
 % STEP #2: start reporting engine
@@ -54,7 +60,8 @@ reportConfigurationPlan = 'report-configuration-plan.json';
 WSettings.Watermark = '';
 
 % run the Worklfow tasklist of ConfigurationPlan
-runQualificationWorkflow(WSettings, ConfigurationPlan, TaskList, ObservedDataSets);
+SubunitsForDDIPlot = {}; % e.g. {'Mechanism', 'Perpetrator', 'Victim'}
+runQualificationWorkflow(WSettings, ConfigurationPlan, TaskList, ObservedDataSets, SubunitsForDDIPlot);
 
 QualificationWorkflowTime = toc/60;
 fprintf('\n Qualification Workflow Duration: %0.1f minutes \n', QualificationWorkflowTime);
