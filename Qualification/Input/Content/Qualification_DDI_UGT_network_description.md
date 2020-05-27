@@ -1,25 +1,20 @@
 The following perpetrator compounds were selected:
 
 - **Atazanavir** (UGT1A1 inhibitor)
-  - Model file and evaluation report (*release* **TODO**): TODO
-  - Model snapshot and evaluation plan (*release* **v1.1**): https://github.com/Open-Systems-Pharmacology/Atazanavir-Model/releases/tag/v1.1
+  Model snapshot and evaluation plan (*release* **v1.1**): https://github.com/Open-Systems-Pharmacology/Atazanavir-Model/releases/tag/v1.1
   
 - **Mefenamic acid** (UGT1A9 inhibitor)
-  - Model file and evaluation report (*release* **TODO**): TODO
-  - Model snapshot and evaluation plan (*release* **v1.1**): https://github.com/Open-Systems-Pharmacology/Mefenamic-acid-Model/releases/tag/v1.1
-
+  Model snapshot and evaluation plan (*release* **v1.1**): https://github.com/Open-Systems-Pharmacology/Mefenamic-acid-Model/releases/tag/v1.1
   
+
 
 The following sensitive substrates as victim drugs were selected:
 
 - **Raltegravir** (UGT1A1 substrate)
-  - Model file and evaluation report (*release* **TODO**): TODO
-  - Model snapshot and evaluation plan (*release* **v1.1**): https://github.com/Open-Systems-Pharmacology/Raltegravir-Model/releases/tag/v1.1
+  Model snapshot and evaluation plan (*release* **v1.1**): https://github.com/Open-Systems-Pharmacology/Raltegravir-Model/releases/tag/v1.1
   
-- **Dapagliflozin** (UGT1A9 substrate)
-  - Model file and evaluation report (*release* **TODO**): TODO
-  - Model snapshot and evaluation plan (*release* **v1.1**): https://github.com/Open-Systems-Pharmacology/Dapagliflozin-Model/releases/tag/v1.1
-  
+- **Dapagliflozin** (UGT1A9 substrate):
+  Model snapshot and evaluation plan (*release* **v1.1**): https://github.com/Open-Systems-Pharmacology/Dapagliflozin-Model/releases/tag/v1.1
 
 
 

@@ -1,5 +1,5 @@
-The release of the repository containing the respective simulations can be found here:
-https://github.com/Open-Systems-Pharmacology/Atazanavir-Raltegravir-DDI/releases/tag/v1.0.
+The release of the snapshot containing the respective simulations can be found here:
+https://github.com/Open-Systems-Pharmacology/Atazanavir-Raltegravir-DDI/releases/tag/v1.1.
 
 The atazanavir / raltegravir interaction was evaluated using four clinical DDI studies ([Iwamoto 2008](#4-References), [Krishna 2008](#4-References), [Neely 2010](#4-References), [Zhu 2010](#4-References)).
 

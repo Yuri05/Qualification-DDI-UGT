@@ -1,5 +1,5 @@
-The release of the repository containing the respective simulations can be found here:
-https://github.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI/releases/tag/v1.0.
+The release of the snapshot containing the respective simulations can be found here:
+https://github.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI/releases/tag/v1.1.
 
 The mefenamic acid / dapagliflozin interaction was evaluated using 1 clinical DDI study ([Kasichayanula 2013](#4-References)).
 
