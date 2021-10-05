@@ -446,7 +446,7 @@
     {
       "Id": 1,
       "Title": "1 Introduction",
-      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.0/Empty.md",
+      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.1/Empty.md",
       "Sections": [
         {
           "Id": 11,
@@ -475,7 +475,7 @@
     {
       "Id": 2,
       "Title": "2 Qualification of Use Case UGT-mediated DDI",
-      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.0/Empty.md"
+      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.1/Empty.md"
     },
     {
       "Id": 3,
@@ -485,12 +485,12 @@
         {
           "Id": 31,
           "Title": "3.1 Atazanavir - Raltegravir DDI",
-          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.0/Empty.md"
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.1/Empty.md"
         },
         {
           "Id": 32,
           "Title": "3.2 Mefenamic acid - Dapagliflozin DDI",
-          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.0/Empty.md"
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.1/Empty.md"
         }
       ]
     },
@@ -503,25 +503,25 @@
     {
       "Id": 5,
       "Title": "5 Appendix",
-      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.0/Empty.md",
+      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.1/Empty.md",
       "Sections": [
         {
           "Id": 51,
           "Title": "5.1 Open Systems Pharmacology Suite (OSPS) Introduction",
-          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.0/OSPS_Introduction.md"
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.1/OSPS_Introduction.md"
         },
         {
           "Id": 52,
           "Title": "5.2 Mathematical Implementation of Drug-Drug Interactions",
-          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.0/Mathematical_Implementation_of_DDI.md"
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.1/Mathematical_Implementation_of_DDI.md"
         },
         {
           "Id": 53,
           "Title": "5.3 Automatic (re)-qualification workflow",
-          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.0/Qualification_Workflow.md"
+          "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.1/Qualification_Workflow.md"
         }
       ]
-    },
+    }
   ],
   "Intro": [
     {
