@@ -13,7 +13,7 @@
     },    
     {
       "Id": "Raltegravir",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Raltegravir-Model/v1.1/Raltegravir-Model.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Raltegravir-Model/v1.2/Raltegravir-Model.json",
       "BuildingBlocks": []
     },
     {
@@ -97,7 +97,7 @@
   "ObservedDataSets": [
     {
       "Id": "DDI Ratios",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Database-for-observed-data/v1.0/DDI.csv",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Database-for-observed-data/v1.3/DDI.csv",
       "Type": "DDIRatio"
     }
   ],
