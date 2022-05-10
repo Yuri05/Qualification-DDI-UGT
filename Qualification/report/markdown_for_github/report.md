@@ -3,9 +3,9 @@
 
 
 
-| Version                         | x.x-OSP11.0                                                   |
+| Version                         | 1.3-OSP11.0                                                   |
 | ------------------------------- | ------------------------------------------------------------ |
-| Qualification Plan Release      | https://github.com/Open-Systems-Pharmacology/Qualification-DDI-UGT/releases/tag/vx.x |
+| Qualification Plan Release      | https://github.com/Open-Systems-Pharmacology/Qualification-DDI-UGT/releases/tag/v1.3 |
 | OSP Version                     | 11.0                                                          |
 | Qualification Framework Version | 2.3                                                          |
 
