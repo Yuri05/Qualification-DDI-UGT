@@ -1,14 +1,14 @@
 {
-  "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.1/OSP_Qualification_Plan_Schema.json",
+  "$schema": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/QualificationPlan/v2.3/schemas/OSP_Qualification_Plan_Schema.json",
   "Projects": [
     {
       "Id": "Mefenamic_acid",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic-acid-Model/v1.1/Mefenamic_acid-Model.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic-acid-Model/v1.2/Mefenamic_acid-Model.json",
       "BuildingBlocks": []
     },
     {
       "Id": "Dapagliflozin",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dapagliflozin-Model/v1.1/Dapagliflozin-Model.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dapagliflozin-Model/v1.2/Dapagliflozin-Model.json",
       "BuildingBlocks": []
     },    
     {
@@ -18,7 +18,7 @@
     },
     {
       "Id": "Atazanavir",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Atazanavir-Model/v1.1/Atazanavir-Model.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Atazanavir-Model/v1.2/Atazanavir-Model.json",
       "BuildingBlocks": []
     },
     {
@@ -97,7 +97,7 @@
   "ObservedDataSets": [
     {
       "Id": "DDI Ratios",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Database-for-observed-data/v1.3/DDI.csv",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Database-for-observed-data/v1.4/DDI.csv",
       "Type": "DDIRatio"
     }
   ],
@@ -475,12 +475,12 @@
     {
       "Id": 2,
       "Title": "2 Qualification of Use Case UGT-mediated DDI",
-      "Content": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Qualification-text-modules/v1.2/Empty.md"
+      "Content": "Content/Intro_evaluation_DDI_network.md"
     },
     {
       "Id": 3,
       "Title": "3 Concentration-Time Profiles",
-      "Content": "Content/Intro_evaluation_DDI_network.md",
+      "Content": "Content/Intro_evaluation_CTprofiles.md",
       "Sections": [
         {
           "Id": 31,
