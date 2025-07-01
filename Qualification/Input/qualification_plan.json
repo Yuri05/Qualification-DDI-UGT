@@ -3,27 +3,27 @@
   "Projects": [
     {
       "Id": "Mefenamic_acid",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic-acid-Model/v1.2/Mefenamic_acid-Model.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic-acid-Model/v2.0/Mefenamic_acid-Model.json",
       "BuildingBlocks": []
     },
     {
       "Id": "Dapagliflozin",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dapagliflozin-Model/v1.2/Dapagliflozin-Model.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Dapagliflozin-Model/v2.0/Dapagliflozin-Model.json",
       "BuildingBlocks": []
     },
     {
       "Id": "Raltegravir",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Raltegravir-Model/v1.2/Raltegravir-Model.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Raltegravir-Model/v2.0/Raltegravir-Model.json",
       "BuildingBlocks": []
     },
     {
       "Id": "Atazanavir",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Atazanavir-Model/v1.2/Atazanavir-Model.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Atazanavir-Model/v2.0/Atazanavir-Model.json",
       "BuildingBlocks": []
     },
     {
       "Id": "Mefenamic_acid-Dapagliflozin-DDI",
-      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI/v1.1/Mefenamic_acid-Dapagliflozin-DDI.json",
+      "Path": "https://raw.githubusercontent.com/Open-Systems-Pharmacology/Mefenamic_acid-Dapagliflozin-DDI/v1.2/Mefenamic_acid-Dapagliflozin-DDI.json",
       "BuildingBlocks": [
         {
           "Type": "Individual",
