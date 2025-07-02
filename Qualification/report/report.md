@@ -65,7 +65,7 @@ The following sensitive substrates as victim drugs were selected:
 - **Dapagliflozin** (UGT1A9 substrate):
   Model snapshot and evaluation plan (*release* **v2.0**): [https://github.com/Open-Systems-Pharmacology/Dapagliflozin-Model/releases/tag/v2.0](https://github.com/Open-Systems-Pharmacology/Dapagliflozin-Model/releases/tag/v2.0)
 
-The published DDI studies between the respective perpetrators and victim drugs were simulated and compared to observed data. The following sections give an overview of the clinical studies being part of this qualification report. The respective data identifier (DataID) refers to the **ID** of the dataset in the [OSP PK database]([https://github.com/Open-Systems-Pharmacology/Database-for-observed-data](https://github.com/Open-Systems-Pharmacology/Database-for-observed-data)).
+The published DDI studies between the respective perpetrators and victim drugs were simulated and compared to observed data. The following sections give an overview of the clinical studies being part of this qualification report. The respective data identifier (DataID) refers to the **ID** of the dataset in the [OSP PK database](https://github.com/Open-Systems-Pharmacology/Database-for-observed-data).
 
 ### 1.2.1 Atazanavir - Raltegravir DDI<a id="network-atazanavir-raltegravir-ddi"></a>
 
